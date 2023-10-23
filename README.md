@@ -1,4 +1,4 @@
-# dev-academy-spring-2023-exercise
+# dev-academy-spring-2024-exercise
 
 This is the pre-assignment for Solita Dev Academy Finland January 2024. But if you’re here just purely out of curiosity, feel free to snatch the idea and make your own city bike app just for the fun of it!
 
